@@ -18,6 +18,30 @@
       margin:50px auto;
     }
 
+     span.population {
+      font-size: 15px;
+    }
+
+
+    .details {
+      text-align: center;
+      font-size: 15px;
+    }
+
+    .hl {
+      background:#ffc600;
+    }
+
+    .love {
+      text-align: center;
+    }
+
+    a {
+      color:black;
+      background:rgba(0,0,0,0.1);
+      text-decoration: none;
+    }    
+
     input.search {
       margin: 0;
       text-align: center;
@@ -62,26 +86,4 @@
       background: linear-gradient(to top,  #ffffff 0%,#EFEFEF 100%);
     }
 
-    span.population {
-      font-size: 15px;
-    }
-
-
-    .details {
-      text-align: center;
-      font-size: 15px;
-    }
-
-    .hl {
-      background:#ffc600;
-    }
-
-    .love {
-      text-align: center;
-    }
-
-    a {
-      color:black;
-      background:rgba(0,0,0,0.1);
-      text-decoration: none;
-    }
+   
